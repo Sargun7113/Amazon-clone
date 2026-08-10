@@ -21,8 +21,7 @@ A responsive e-commerce web application replicating core Amazon features. Built 
 3. Start the server: `npm start`
 4. Open `http://localhost:3000` in your browser
 
-## Screenshots
-*(Optional: Add screenshots here if possible)*
+
 
 ## GitHub
 [Amazon Clone Repository](https://github.com/Sargun7113/Amazon-clone)
